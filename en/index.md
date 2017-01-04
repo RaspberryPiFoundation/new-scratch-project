@@ -4,6 +4,6 @@
 
 	![screenshot](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you don't need it, you can delete it by right-clicking and then clicking 'delete'.
++ The cat sprite that you can see is the Scratch mascot. If you need an __empty__ Scratch project, you can delete the cat by right-clicking and then clicking 'delete'.
 
 	![screenshot](images/delete.png)
