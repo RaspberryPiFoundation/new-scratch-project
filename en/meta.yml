@@ -1,5 +1,9 @@
-title: new-scratch-project
+
+title: Creating a New Scratch Project
 hero_image: images/banner.png
-subtitle: new-scratch-project subtitle
-description: new-scratch-project description
-published: 'false'
+subtitle: Create a new Scratch Project
+description: Create a new Scratch Project
+published: false
+steps:
+  - title: Step one
+    duration: 60
