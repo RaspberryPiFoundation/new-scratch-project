@@ -1,13 +1,13 @@
-You can use Scratch online or offline.
+Sie können Scratch online oder offline verwenden.
 
-+ To create a new Scratch project using the online editor, go to <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
++ Um ein neues Scratch-Projekt mit dem Online-Editor zu erstellen, gehen Sie zu | 123_55_0_321 | jumpto.cc/scratch-new | 123_4_1_321 |.
 
-+ If you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://jumpto.cc/scratch-off" target="_blank">jumpto.cc/scratch-off</a>.
++ Wenn Sie lieber offline arbeiten und den Editor noch nicht installiert haben, können Sie ihn von | 123_55_0_321 | jumpto.cc/scratch-off | 123_4_1_321 | herunterladen.
     
-    The Scratch editor looks like this:
+    Der Scratch-Editor sieht folgendermaßen aus:
     
-    ![screenshot](images/scratch-editor.png)
+    ![Bildschirmfoto](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ Das Katzen-Sprite, das Sie sehen können, ist das Scratch-Maskottchen. Wenn Sie ein leeres Scratch-Projekt benötigen, können Sie die Katze löschen, indem Sie mit der rechten Maustaste darauf klicken und dann auf | 123_8_0_321 | delete | 123_9_1_321 | klicken.
     
-    ![screenshot](images/delete.png)
+    ![Bildschirmfoto](images/delete.png)
