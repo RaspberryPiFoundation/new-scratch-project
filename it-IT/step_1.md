@@ -1,4 +1,4 @@
-Puoi utilizzare Scratch online o offline.
+Puoi utilizzare Scratch online oppure offline.
 
 + Per creare un nuovo progetto di Scratch usando l'editor online, vai su <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
 
