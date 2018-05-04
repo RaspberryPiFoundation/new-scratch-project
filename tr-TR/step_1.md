@@ -4,10 +4,10 @@ Scratch'ı çevrimiçi veya çevrimdışı olarak kullanabilirsiniz.
 
 + Çevrimdışı çalışmayı tercih ediyorsanız ve henüz editörünü yüklemediyseniz, bunu <a href="http://jumpto.cc/scratch-off" target="_blank">jumpto.cc/scratch-off</a>adresinden indirebilirsiniz.
     
-    The Scratch editor looks like this:
+    Scratch editörü şu şekilde görünüyor:
     
-    ![screenshot](images/scratch-editor.png)
+    ![ekran görüntüsü](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ Gördüğünüz kedi sprite, Scratch maskotu. Boş bir Scratch projesine ihtiyacınız varsa, onu sağ tıklayıp **silme**tıklayarak kediyi silebilirsiniz.
     
-    ![screenshot](images/delete.png)
+    ![ekran görüntüsü](images/delete.png)
