@@ -8,6 +8,6 @@ Du kannst Scratch online oder offline verwenden.
     
     ![screenshot](images/scratch-editor.png)
 
-+ Die Katzen-Figur, die du sehen kannst, ist das Scratch-Maskottchen. Wenn du ein leeres Scratch-Projekt benötigst, kannst du die Katze löschen, indem du mit der rechten Maustaste darauf klickst und dann auf **delete** klickst.
++ Die Katzen-Figur, die du sehen kannst, ist das Scratch-Maskottchen. Wenn du ein leeres Scratch-Projekt benötigst, kannst du die Katze löschen, indem du mit der rechten Maustaste darauf klickst und dann auf **Löschen** klickst.
     
     ![screenshot](images/delete.png)
