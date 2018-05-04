@@ -1,1 +1,1 @@
-# Neues Scratch-Projekt
+# new-scratch-project
