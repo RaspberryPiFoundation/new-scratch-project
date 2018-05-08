@@ -8,6 +8,6 @@ Puedes usar Scratch en línea o fuera de línea.
     
     ![captura de pantalla](images/scratch-editor.png)
 
-+ El objeto gato que ves es la mascota de Scratch. Si necesitas un proyecto vacío, puedes eliminar el gato haciendo clic encima de el con el botón derecho y luego haciendo clic en **borrar**.
++ El objeto gato que ves es la mascota de Scratch. Si necesitas un proyecto de Scratch vacío, puedes eliminar el gato haciendo clic encima de él con el botón derecho y luego haciendo clic en **borrar**.
     
     ![captura de pantalla](images/delete.png)
