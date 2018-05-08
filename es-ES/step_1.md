@@ -1,4 +1,4 @@
-Puede usar Scratch en línea o fuera de línea.
+Puedes usar Scratch en línea o fuera de línea.
 
 + Para crear un nuevo proyecto Scratch usando el editor en línea, vaya a | 123_55_0_321 | jumpto.cc/scratch-new | 123_4_1_321 |.
 
