@@ -1,16 +1,16 @@
 ---
-title: Creando un nuevo proyecto Scratch
-hero_image: images / banner.png
-description: Crea un nuevo proyecto Scratch
-original_url: ""
+title: Crear un nuevo proyecto en Scratch
+hero_image: images/banner.png
+description: Crea un nuevo proyecto en Scratch
+original_url:
 theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
-technologies: "rasguño"
+interests:
+technologies: "scratch"
 steps:
   - 
     title: Crea un nuevo proyecto
