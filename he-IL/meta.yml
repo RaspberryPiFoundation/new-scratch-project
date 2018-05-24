@@ -2,14 +2,14 @@
 title: יצירת פרוייקט חדש של Scratch
 hero_image: תמונות / banner.png
 description: צור פרוייקט חדש של Scratch
-original_url: ""
+original_url:
 theme: אב טיפוס
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "שריטה"
 steps:
   - 
