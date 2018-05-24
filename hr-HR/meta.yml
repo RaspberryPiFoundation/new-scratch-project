@@ -2,14 +2,14 @@
 title: Stvaranje novog Scratch projekta
 hero_image: images/banner.png
 description: Napravi novi Scratch projekt
-original_url: ""
+original_url:
 theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "scratch"
 steps:
   - 
