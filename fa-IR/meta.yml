@@ -2,14 +2,14 @@
 title: ایجاد یک پروژه جدید خراش
 hero_image: images / banner.png
 description: یک پروژه جدید خراش ایجاد کنید
-original_url: ""
+original_url:
 theme: نمونه اولیه cc
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "خراش"
 steps:
   - 
