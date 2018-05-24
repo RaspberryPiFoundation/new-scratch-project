@@ -1,16 +1,16 @@
 ---
-title: Membuat proyek Scratch baru
-hero_image: gambar / banner.png
-description: Buat proyek Scratch baru
-original_url: ""
-theme: cc-prototipe
+title: Membuat sebuah proyek Scratch baru
+hero_image: images/banner.png
+description: Buat sebuah proyek Scratch baru
+original_url:
+theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
-technologies: "menggaruk"
+interests:
+technologies: "scratch"
 steps:
   - 
-    title: Buat proyek baru
+    title: Membuat sebuah proyek baru
