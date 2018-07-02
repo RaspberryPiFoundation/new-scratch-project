@@ -1,7 +1,7 @@
 ---
-title: Creating a new Scratch project
+title: 创建一个新的 Scratch 项目
 hero_image: images/banner.png
-description: Create a new Scratch project
+description: 创建一个新的 Scratch 项目
 original_url:
 theme: cc-prototype
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Create a new project
+    title: 创建一个新项目
