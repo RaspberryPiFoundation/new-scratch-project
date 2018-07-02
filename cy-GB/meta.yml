@@ -1,16 +1,16 @@
 ---
 title: Creu prosiect Scratch newydd
-hero_image: delweddau / banner.png
+hero_image: images/banner.png
 description: Creu prosiect Scratch newydd
 original_url:
-theme: cc-prototeip
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "crafu"
+technologies: "scratch"
 steps:
   - 
     title: Creu prosiect newydd
