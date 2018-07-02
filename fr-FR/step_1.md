@@ -1,13 +1,13 @@
-Vous pouvez utiliser Scratch en ligne ou hors ligne.
+Tu peux utiliser Scratch en ligne ou hors ligne.
 
-+ Pour créer un nouveau projet Scratch à l'aide de l'éditeur en ligne, accédez à | 123_55_0_321 | jumpto.cc/scratch-new | 123_4_1_321 |.
++ Pour créer un nouveau projet Scratch à l'aide de l'éditeur en ligne, va sur <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
 
-+ Si vous préférez travailler hors ligne et n'avez pas encore installé l'éditeur, vous pouvez le télécharger depuis | 123_55_0_321 | jumpto.cc/scratch-off | 123_4_1_321 |.
++ Si tu préfères travailler hors ligne et n'as pas encore installé l'éditeur, tu peux le télécharger depuis <a href="http://jumpto.cc/scratch-off" target="_blank">jumpto.cc/scratch-off</a>.
     
     L'éditeur Scratch ressemble à ceci:
     
     ![capture d'écran](images/scratch-editor.png)
 
-+ Le chat sprite que vous pouvez voir est la mascotte Scratch. Si vous avez besoin d'un projet Scratch vide, vous pouvez le supprimer en cliquant dessus avec le bouton droit de la souris, puis en cliquant sur | 123_8_0_321 | delete | 123_9_1_321 |.
++ Le chat que tu peux voir est la mascotte de Scratch. Si tu as besoin d'un projet Scratch vide, tu peux le supprimer en cliquant dessus avec le bouton droit de la souris, puis en cliquant sur **supprimer**.
     
     ![capture d'écran](images/delete.png)
