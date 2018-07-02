@@ -1,13 +1,13 @@
-Você pode usar o Scratch on-line ou off-line.
+Você pode usar o Scratch online ou offline.
 
-+ Para criar um novo projeto Scratch usando o editor on-line, vá para <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
++ Para criar um novo projeto Scratch usando o editor online, acesse <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
 
-+ Se você preferir trabalhar offline e ainda não instalou o editor, você pode baixá-lo de <a href="http://jumpto.cc/scratch-off" target="_blank">jumpto.cc/scratch-off</a>.
++ Se você preferir trabalhar offline e ainda não instalou o editor, você pode baixá-lo em <a href="http://jumpto.cc/scratch-off" target="_blank">jumpto.cc/scratch-off</a>.
     
-    O editor Scratch parece assim:
+    O editor Scratch se parece com isso:
     
-    ![captura de tela](images/scratch-editor.png)
+    ![screenshot](images/scratch-editor.png)
 
-+ O sprite de gato que você pode ver é o mascote Scratch. Se você precisa de um projeto Scratch vazio, você pode excluir o gato clicando com o botão direito e clicando em **, apague**.
++ O ator de gato que você pode ver é o mascote Scratch. Se você precisa de um projeto Scratch vazio, você pode excluir o gato clicando com o botão direito e clicando em **apagar**.
     
-    ![captura de tela](images/delete.png)
+    ![screenshot](images/delete.png)
