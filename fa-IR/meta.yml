@@ -1,16 +1,16 @@
 ---
-title: ایجاد یک پروژه جدید خراش
-hero_image: images / banner.png
-description: یک پروژه جدید خراش ایجاد کنید
+title: ایجاد یک پروژه‌ی جدید در اسکرچ
+hero_image: images/banner.png
+description: یک پروژه‌ی جدید در اسکرچ ایجاد کنید
 original_url:
-theme: نمونه اولیه cc
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "خراش"
+technologies: "scratch"
 steps:
   - 
-    title: یک پروژه جدید ایجاد کنید
+    title: یک پروژه‌ی جدید ایجاد کنید
