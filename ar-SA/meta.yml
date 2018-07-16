@@ -1,9 +1,10 @@
+---
 title: إنشاء مشروع Scratch جديد
 hero_image: images/banner.png
-description: أنشئ مشروع Scratch جديدًا
+description: أنشئ مشروع Scratch جديد
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 curriculum:
 listed: false
 ingredient: true
