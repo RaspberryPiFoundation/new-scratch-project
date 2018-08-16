@@ -3,14 +3,14 @@ title: Tworzenie nowego projektu Scratch
 hero_image: images / banner.png
 description: Utwórz nowy projekt Scratch
 original_url:
-theme: prototyp cc
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "zadraśnięcie"
+technologies: "scratch"
 steps:
   - 
     title: Utwórz nowy projekt
