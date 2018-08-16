@@ -1,16 +1,16 @@
 ---
-title: একটি নতুন স্ক্র্যাচ প্রকল্প তৈরি করা
-hero_image: ইমেজ / banner.png
-description: একটি নতুন স্ক্র্যাচ প্রকল্প তৈরি করুন
+title: একটি নতুন স্ক্র্যাচ প্রজেক্ট তৈরি করা
+hero_image: images/banner.png
+description: একটি নতুন স্ক্র্যাচ প্রজেক্ট তৈরি করুন
 original_url:
-theme: CC-প্রোটোটাইপ
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "আঁচড়ের দাগ"
+technologies: "scratch"
 steps:
   - 
-    title: একটি নতুন প্রকল্প তৈরি করুন
+    title: একটি নতুন প্রজেক্ট তৈরি করুন
