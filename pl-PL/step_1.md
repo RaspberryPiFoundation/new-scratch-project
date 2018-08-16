@@ -8,6 +8,6 @@ Możesz używać Scratch online lub offline.
     
     ![zrzut ekranu](images/scratch-editor.png)
 
-+ Spryt kota, który można zobaczyć, to maskotka Scratch. Jeśli potrzebujesz pustego projektu Scratch, możesz usunąć kota, klikając go prawym przyciskiem myszy, a następnie klikając **usuń**.
++ Duszek kota, którego widzisz to maskotka Scratch. Jeśli potrzebujesz pustego projektu Scratch, możesz usunąć kota, klikając go prawym przyciskiem myszy, a następnie klikając **usuń**.
     
     ![zrzut ekranu](images/delete.png)
