@@ -1,13 +1,13 @@
-आप Scratch को ऑनलाइन या ऑफ़लाइन उपयोग कर सकते हैं।
+आप स्क्रैच को ऑनलाइन या ऑफ़लाइन उपयोग कर सकते हैं।
 
-+ ऑनलाइन एडिटर द्वारा नया Scratch प्रोजेक्ट बनाने के लिए, <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a> पर जाएँ।
++ ऑनलाइन एडिटर द्वारा नया स्क्रैच प्रोजेक्ट बनाने के लिए, <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a> पर जाएँ।
 
 + यदि आप ऑफ़लाइन काम करना चाहें और अभी एडिटर को इनस्टॉल नहीं किया है, तो आप <a href="http://jumpto.cc/scratch-off" target="_blank">jumpto.cc/scratch-off</a> से इसे डाउनलोड कर सकते हैं।
+    
+    स्क्रैच एडिटर इस प्रकार दिखाई देता है:
+    
+    ![स्क्रीनशॉट](images/scratch-editor.png)
 
-	Scratch कुछ इस प्रकार दिखाई देता है:
-
-	![screenshot](images/scratch-editor.png)
-
-+ आप जो cat स्प्राइट देख सकते हैं, वह Scratch मस्कट है। यदि आप खाली Scratch प्रोजेक्ट चाहते हैं, तो आप cat पर राइट क्लिक करके और फिर __delete__ पर क्लिक करके इसे मिटा सकते हैं।
-
-	![screenshot](images/delete.png)
++ आप जो बिल्ली स्प्राइट देख सकते हैं, वह स्क्रैच प्रतिकृति है। यदि आप खाली स्क्रैच प्रोजेक्ट चाहते हैं, तो आप 'बिल्ली' पर राइट क्लिक करके और फिर **delete** पर क्लिक करके इसे हटा सकते हैं।
+    
+    ![स्क्रीनशॉट](images/delete.png)
