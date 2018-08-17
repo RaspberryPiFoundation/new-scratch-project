@@ -1,16 +1,16 @@
 ---
 title: Új Scratch projekt létrehozása
-hero_image: images / banner.png
-description: Hozzon létre egy új Scratch projektet
+hero_image: images/banner.png
+description: Hozz létre egy új Scratch projektet
 original_url:
-theme: cc-prototípus
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "karcolás"
+technologies: "scratch"
 steps:
   - 
-    title: Hozzon létre egy új projektet
+    title: Hozz létre egy új projektet
