@@ -1,4 +1,4 @@
-Du kan bruge Scratch online eller offline.
+Du kan bruge Scratch både online eller offline.
 
 + For at oprette et nyt Scratch-projekt ved hjælp af online-editoren, skal du gå til <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
 
@@ -8,6 +8,6 @@ Du kan bruge Scratch online eller offline.
     
     ![skærmbillede](images/scratch-editor.png)
 
-+ Katten sprite som du kan se er Scratch mascot. Hvis du har brug for et tomt Scratch-projekt, kan du slette katten ved at højreklikke på den og derefter klikke **slet**.
++ Katte-spriten, som du kan se, er Scratch-maskotten. Hvis du har brug for et tomt Scratch-projekt, kan du slette katten ved at højreklikke på den og derefter klikke **slet**.
     
     ![skærmbillede](images/delete.png)
