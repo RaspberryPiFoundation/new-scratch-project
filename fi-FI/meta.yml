@@ -1,16 +1,16 @@
 ---
 title: Uuden Scratch-projektin luominen
-hero_image: Kuvien / banner.png
+hero_image: images/banner.png
 description: Luo uusi Scratch-projekti
 original_url:
-theme: CC-prototyyppi
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "naarmu"
+technologies: "scratch"
 steps:
   - 
     title: Luo uusi projekti
