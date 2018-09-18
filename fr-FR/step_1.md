@@ -1,6 +1,6 @@
 Tu peux utiliser Scratch en ligne ou hors ligne.
 
-+ Pour créer un nouveau projet Scratch à l'aide de l'éditeur en ligne, va sur <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
++ Pour créer un nouveau projet Scratch à l'aide de l'éditeur en ligne, accède à <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
 
 + Si tu préfères travailler hors ligne et n'as pas encore installé l'éditeur, tu peux le télécharger depuis <a href="http://jumpto.cc/scratch-off" target="_blank">jumpto.cc/scratch-off</a>.
     
